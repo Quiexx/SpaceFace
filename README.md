@@ -5,7 +5,6 @@ Fine tuning, blending of styleGAN2 models and creation animations using latent d
 ![Demo 1](./docs/Void%20Face%20%231_r.gif)
 ![Demo 2](./docs/Void%20Face%20%2310_r.gif)
 ![Demo 3](./docs/Void%20Face%20%2318_r.gif)
-![Demo 4](./docs/Void%20Face%20%2311_r.gif)  
 
 ---
 ## Notes
